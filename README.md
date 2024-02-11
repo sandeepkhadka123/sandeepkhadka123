@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Khadka</h1>
 <h3 align="center">A passionate Frontend developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html">
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkhadka123&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkhadka123" /> </p>
 
