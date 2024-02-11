@@ -6,12 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/@sandeepk" target="blank"><img src="https://img.shields.io/twitter/follow/@sandeepk?logo=twitter&style=for-the-badge" alt="@sandeepk" /></a> </p>
 
-- 🌱 I’m currently learning **React, java , js , tailwind**
+- 🌱 I’m currently learning **React, Java , JS , TailWind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.sandeepk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.sandeepk" height="30" width="40" /></a>
-<a href="https://twitter.com/@sandeepk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sandeepk" height="30" width="40" /></a>
+<a href="https://twitter.com/sandeepk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sandeepk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeep khadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep khadka" height="30" width="40" /></a>
 <a href="https://fb.com/sandeep khadka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeep khadka" height="30" width="40" /></a>
 </p>
