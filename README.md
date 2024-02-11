@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Khadka</h1>
 <h3 align="center">A passionate Frontend developer from Nepal</h3>
-<img align="right" alt="coding" width="450" src="https://search.brave.com/images?q=animated+coding+cool+gif&source=web">
+<img align="right" alt="coding" width="400" src="[[https://search.brave.com/images?q=animated+coding+cool+gif&source=web](https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif)](https://imgs.search.brave.com/BATPum-9rBgY_WWnKpMyV79Alk9XuyxEtlYQ4LOcMAI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3FnUVVn/Z0FDM1BmdjY4N3FQ/Qy8yMDAuZ2lmP2Np/ZD03OTBiNzYxMTEw/eWVtM2gzbmxqb2sx/YXU2czNjOXh6am4z/a2w3aHF4NDIwcGhs/ajUmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkhadka123&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepkhadka123" /> </p>
 
